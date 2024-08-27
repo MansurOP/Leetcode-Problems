@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MansurOP/https-github.com-MansurOP-LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/MansurOP/https-github.com-MansurOP-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1325-path-with-maximum-probability](https://github.com/MansurOP/https-github.com-MansurOP-LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MansurOP/https-github.com-MansurOP-LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/MansurOP/https-github.com-MansurOP-LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/MansurOP/https-github.com-MansurOP-LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/MansurOP/https-github.com-MansurOP-LeetCode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
